@@ -43,7 +43,7 @@ The script includes basic error handling and will output any errors encountered 
 
 ## Contributing
 
-Contributions to improve the script are welcome. Please feel free to submit a Pull Request.
+Contributions to improve the script are welcome.
 
 ## License
 
